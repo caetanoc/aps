@@ -1,0 +1,13 @@
+.plus{
+    background-image: url("https://cdn0.iconfinder.com/data/icons/ie_Bright/128/plus_add_blue.png");
+    width:130px;
+    height:130px;
+    background-repeat:no-repeat;
+}
+
+.plus.minus{
+    background-image: url("https://cdn0.iconfinder.com/data/icons/ie_Bright/128/plus_add_minus.png");
+    width:130px;
+    height:130px;
+    background-repeat:no-repeat;
+}
